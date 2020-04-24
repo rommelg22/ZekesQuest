@@ -1,0 +1,4310 @@
+fileFormatVersion: 2
+guid: d46c8638fda077c40ae44d9a5b2be829
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SNES - Super Mario World - Objects & Blocks_0
+    21300002: SNES - Super Mario World - Objects & Blocks_1
+    21300004: SNES - Super Mario World - Objects & Blocks_2
+    21300006: SNES - Super Mario World - Objects & Blocks_3
+    21300008: SNES - Super Mario World - Objects & Blocks_4
+    21300010: SNES - Super Mario World - Objects & Blocks_5
+    21300012: SNES - Super Mario World - Objects & Blocks_6
+    21300014: SNES - Super Mario World - Objects & Blocks_7
+    21300016: SNES - Super Mario World - Objects & Blocks_8
+    21300018: SNES - Super Mario World - Objects & Blocks_9
+    21300020: SNES - Super Mario World - Objects & Blocks_10
+    21300022: SNES - Super Mario World - Objects & Blocks_11
+    21300024: SNES - Super Mario World - Objects & Blocks_12
+    21300026: SNES - Super Mario World - Objects & Blocks_13
+    21300028: SNES - Super Mario World - Objects & Blocks_14
+    21300030: SNES - Super Mario World - Objects & Blocks_15
+    21300032: SNES - Super Mario World - Objects & Blocks_16
+    21300034: SNES - Super Mario World - Objects & Blocks_17
+    21300036: SNES - Super Mario World - Objects & Blocks_18
+    21300038: SNES - Super Mario World - Objects & Blocks_19
+    21300040: SNES - Super Mario World - Objects & Blocks_20
+    21300042: SNES - Super Mario World - Objects & Blocks_21
+    21300044: SNES - Super Mario World - Objects & Blocks_22
+    21300046: SNES - Super Mario World - Objects & Blocks_23
+    21300048: SNES - Super Mario World - Objects & Blocks_24
+    21300050: SNES - Super Mario World - Objects & Blocks_25
+    21300052: SNES - Super Mario World - Objects & Blocks_26
+    21300054: SNES - Super Mario World - Objects & Blocks_27
+    21300056: SNES - Super Mario World - Objects & Blocks_28
+    21300058: SNES - Super Mario World - Objects & Blocks_29
+    21300060: SNES - Super Mario World - Objects & Blocks_30
+    21300062: SNES - Super Mario World - Objects & Blocks_31
+    21300064: SNES - Super Mario World - Objects & Blocks_32
+    21300066: SNES - Super Mario World - Objects & Blocks_33
+    21300068: SNES - Super Mario World - Objects & Blocks_34
+    21300070: SNES - Super Mario World - Objects & Blocks_35
+    21300072: SNES - Super Mario World - Objects & Blocks_36
+    21300074: SNES - Super Mario World - Objects & Blocks_37
+    21300076: SNES - Super Mario World - Objects & Blocks_38
+    21300078: SNES - Super Mario World - Objects & Blocks_39
+    21300080: SNES - Super Mario World - Objects & Blocks_40
+    21300082: SNES - Super Mario World - Objects & Blocks_41
+    21300084: SNES - Super Mario World - Objects & Blocks_42
+    21300086: SNES - Super Mario World - Objects & Blocks_43
+    21300088: SNES - Super Mario World - Objects & Blocks_44
+    21300090: SNES - Super Mario World - Objects & Blocks_45
+    21300092: SNES - Super Mario World - Objects & Blocks_46
+    21300094: SNES - Super Mario World - Objects & Blocks_47
+    21300096: SNES - Super Mario World - Objects & Blocks_48
+    21300098: SNES - Super Mario World - Objects & Blocks_49
+    21300100: SNES - Super Mario World - Objects & Blocks_50
+    21300102: SNES - Super Mario World - Objects & Blocks_51
+    21300104: SNES - Super Mario World - Objects & Blocks_52
+    21300106: SNES - Super Mario World - Objects & Blocks_53
+    21300108: SNES - Super Mario World - Objects & Blocks_54
+    21300110: SNES - Super Mario World - Objects & Blocks_55
+    21300112: SNES - Super Mario World - Objects & Blocks_56
+    21300114: SNES - Super Mario World - Objects & Blocks_57
+    21300116: SNES - Super Mario World - Objects & Blocks_58
+    21300118: SNES - Super Mario World - Objects & Blocks_59
+    21300120: SNES - Super Mario World - Objects & Blocks_60
+    21300122: SNES - Super Mario World - Objects & Blocks_61
+    21300124: SNES - Super Mario World - Objects & Blocks_62
+    21300126: SNES - Super Mario World - Objects & Blocks_63
+    21300128: SNES - Super Mario World - Objects & Blocks_64
+    21300130: SNES - Super Mario World - Objects & Blocks_65
+    21300132: SNES - Super Mario World - Objects & Blocks_66
+    21300134: SNES - Super Mario World - Objects & Blocks_67
+    21300136: SNES - Super Mario World - Objects & Blocks_68
+    21300138: SNES - Super Mario World - Objects & Blocks_69
+    21300140: SNES - Super Mario World - Objects & Blocks_70
+    21300142: SNES - Super Mario World - Objects & Blocks_71
+    21300144: SNES - Super Mario World - Objects & Blocks_72
+    21300146: SNES - Super Mario World - Objects & Blocks_73
+    21300148: SNES - Super Mario World - Objects & Blocks_74
+    21300150: SNES - Super Mario World - Objects & Blocks_75
+    21300152: SNES - Super Mario World - Objects & Blocks_76
+    21300154: SNES - Super Mario World - Objects & Blocks_77
+    21300156: SNES - Super Mario World - Objects & Blocks_78
+    21300158: SNES - Super Mario World - Objects & Blocks_79
+    21300160: SNES - Super Mario World - Objects & Blocks_80
+    21300162: SNES - Super Mario World - Objects & Blocks_81
+    21300164: SNES - Super Mario World - Objects & Blocks_82
+    21300166: SNES - Super Mario World - Objects & Blocks_83
+    21300168: SNES - Super Mario World - Objects & Blocks_84
+    21300170: SNES - Super Mario World - Objects & Blocks_85
+    21300172: SNES - Super Mario World - Objects & Blocks_86
+    21300174: SNES - Super Mario World - Objects & Blocks_87
+    21300176: SNES - Super Mario World - Objects & Blocks_88
+    21300178: SNES - Super Mario World - Objects & Blocks_89
+    21300180: SNES - Super Mario World - Objects & Blocks_90
+    21300182: SNES - Super Mario World - Objects & Blocks_91
+    21300184: SNES - Super Mario World - Objects & Blocks_92
+    21300186: SNES - Super Mario World - Objects & Blocks_93
+    21300188: SNES - Super Mario World - Objects & Blocks_94
+    21300190: SNES - Super Mario World - Objects & Blocks_95
+    21300192: SNES - Super Mario World - Objects & Blocks_96
+    21300194: SNES - Super Mario World - Objects & Blocks_97
+    21300196: SNES - Super Mario World - Objects & Blocks_98
+    21300198: SNES - Super Mario World - Objects & Blocks_99
+    21300200: SNES - Super Mario World - Objects & Blocks_100
+    21300202: SNES - Super Mario World - Objects & Blocks_101
+    21300204: SNES - Super Mario World - Objects & Blocks_102
+    21300206: SNES - Super Mario World - Objects & Blocks_103
+    21300208: SNES - Super Mario World - Objects & Blocks_104
+    21300210: SNES - Super Mario World - Objects & Blocks_105
+    21300212: SNES - Super Mario World - Objects & Blocks_106
+    21300214: SNES - Super Mario World - Objects & Blocks_107
+    21300216: SNES - Super Mario World - Objects & Blocks_108
+    21300218: SNES - Super Mario World - Objects & Blocks_109
+    21300220: SNES - Super Mario World - Objects & Blocks_110
+    21300222: SNES - Super Mario World - Objects & Blocks_111
+    21300224: SNES - Super Mario World - Objects & Blocks_112
+    21300226: SNES - Super Mario World - Objects & Blocks_113
+    21300228: SNES - Super Mario World - Objects & Blocks_114
+    21300230: SNES - Super Mario World - Objects & Blocks_115
+    21300232: SNES - Super Mario World - Objects & Blocks_116
+    21300234: SNES - Super Mario World - Objects & Blocks_117
+    21300236: SNES - Super Mario World - Objects & Blocks_118
+    21300238: SNES - Super Mario World - Objects & Blocks_119
+    21300240: SNES - Super Mario World - Objects & Blocks_120
+    21300242: SNES - Super Mario World - Objects & Blocks_121
+    21300244: SNES - Super Mario World - Objects & Blocks_122
+    21300246: SNES - Super Mario World - Objects & Blocks_123
+    21300248: SNES - Super Mario World - Objects & Blocks_124
+    21300250: SNES - Super Mario World - Objects & Blocks_125
+    21300252: SNES - Super Mario World - Objects & Blocks_126
+    21300254: SNES - Super Mario World - Objects & Blocks_127
+    21300256: SNES - Super Mario World - Objects & Blocks_128
+    21300258: SNES - Super Mario World - Objects & Blocks_129
+    21300260: SNES - Super Mario World - Objects & Blocks_130
+    21300262: SNES - Super Mario World - Objects & Blocks_131
+    21300264: SNES - Super Mario World - Objects & Blocks_132
+    21300266: SNES - Super Mario World - Objects & Blocks_133
+    21300268: SNES - Super Mario World - Objects & Blocks_134
+    21300270: SNES - Super Mario World - Objects & Blocks_135
+    21300272: SNES - Super Mario World - Objects & Blocks_136
+    21300274: SNES - Super Mario World - Objects & Blocks_137
+    21300276: SNES - Super Mario World - Objects & Blocks_138
+    21300278: SNES - Super Mario World - Objects & Blocks_139
+    21300280: SNES - Super Mario World - Objects & Blocks_140
+    21300282: SNES - Super Mario World - Objects & Blocks_141
+    21300284: SNES - Super Mario World - Objects & Blocks_142
+    21300286: SNES - Super Mario World - Objects & Blocks_143
+    21300288: SNES - Super Mario World - Objects & Blocks_144
+    21300290: SNES - Super Mario World - Objects & Blocks_145
+    21300292: SNES - Super Mario World - Objects & Blocks_146
+    21300294: SNES - Super Mario World - Objects & Blocks_147
+    21300296: SNES - Super Mario World - Objects & Blocks_148
+    21300298: SNES - Super Mario World - Objects & Blocks_149
+    21300300: SNES - Super Mario World - Objects & Blocks_150
+    21300302: SNES - Super Mario World - Objects & Blocks_151
+    21300304: SNES - Super Mario World - Objects & Blocks_152
+    21300306: SNES - Super Mario World - Objects & Blocks_153
+    21300308: SNES - Super Mario World - Objects & Blocks_154
+    21300310: SNES - Super Mario World - Objects & Blocks_155
+    21300312: SNES - Super Mario World - Objects & Blocks_156
+    21300314: SNES - Super Mario World - Objects & Blocks_157
+    21300316: SNES - Super Mario World - Objects & Blocks_158
+    21300318: SNES - Super Mario World - Objects & Blocks_159
+    21300320: SNES - Super Mario World - Objects & Blocks_160
+    21300322: SNES - Super Mario World - Objects & Blocks_161
+    21300324: SNES - Super Mario World - Objects & Blocks_162
+    21300326: SNES - Super Mario World - Objects & Blocks_163
+    21300328: SNES - Super Mario World - Objects & Blocks_164
+    21300330: SNES - Super Mario World - Objects & Blocks_165
+    21300332: SNES - Super Mario World - Objects & Blocks_166
+    21300334: SNES - Super Mario World - Objects & Blocks_167
+    21300336: SNES - Super Mario World - Objects & Blocks_168
+    21300338: SNES - Super Mario World - Objects & Blocks_169
+    21300340: SNES - Super Mario World - Objects & Blocks_170
+    21300342: SNES - Super Mario World - Objects & Blocks_171
+    21300344: SNES - Super Mario World - Objects & Blocks_172
+    21300346: SNES - Super Mario World - Objects & Blocks_173
+    21300348: SNES - Super Mario World - Objects & Blocks_174
+    21300350: SNES - Super Mario World - Objects & Blocks_175
+    21300352: SNES - Super Mario World - Objects & Blocks_176
+    21300354: SNES - Super Mario World - Objects & Blocks_177
+    21300356: SNES - Super Mario World - Objects & Blocks_178
+    21300358: SNES - Super Mario World - Objects & Blocks_179
+    21300360: SNES - Super Mario World - Objects & Blocks_180
+    21300362: SNES - Super Mario World - Objects & Blocks_181
+    21300364: SNES - Super Mario World - Objects & Blocks_182
+    21300366: SNES - Super Mario World - Objects & Blocks_183
+    21300368: SNES - Super Mario World - Objects & Blocks_184
+    21300370: SNES - Super Mario World - Objects & Blocks_185
+    21300372: SNES - Super Mario World - Objects & Blocks_186
+    21300374: SNES - Super Mario World - Objects & Blocks_187
+    21300376: SNES - Super Mario World - Objects & Blocks_188
+    21300378: SNES - Super Mario World - Objects & Blocks_189
+    21300380: SNES - Super Mario World - Objects & Blocks_190
+    21300382: SNES - Super Mario World - Objects & Blocks_191
+    21300384: SNES - Super Mario World - Objects & Blocks_192
+    21300386: SNES - Super Mario World - Objects & Blocks_193
+    21300388: SNES - Super Mario World - Objects & Blocks_194
+    21300390: SNES - Super Mario World - Objects & Blocks_195
+    21300392: SNES - Super Mario World - Objects & Blocks_196
+    21300394: SNES - Super Mario World - Objects & Blocks_197
+    21300396: SNES - Super Mario World - Objects & Blocks_198
+    21300398: SNES - Super Mario World - Objects & Blocks_199
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 297
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac647f37853dbe847a85261d17d40893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 297
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c81c68710472c4985a7258d7372924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_2
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 297
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d414ce8e4d2146c4193e044927c30a78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_3
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 297
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fb93e46c555a7469374fb19da00f2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_4
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 297
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb456a4bd7ffb549a041f3fa9499348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 297
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3da6aca90471e42a5747dcee1a1a55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_6
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 297
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c365c3382206e47bf58200f5f6bc16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_7
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 297
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4342771ac24589b4abecc21a29ce9530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_8
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 297
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10180e99c8811448be1ffcb64edaa0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_9
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 297
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc53ae126c1da584ca55e54e98442643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_10
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 297
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41eaeab0594380b458eb437e894bab55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_11
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 297
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c1866067a578246ad44354f7936192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_12
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 297
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b664ca60f73f845a85d11c49da2b9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_13
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 297
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86c571a6040f55468580871a73f633c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_14
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 297
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa12e4b7c580c0439cf784b8190f729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_15
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 297
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf53f7663c84134cb021accdfa7ae2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_16
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 297
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3234701890db745a6ce997a4009bc8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_17
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 297
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81894c539f9ab644a02aee837841416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_18
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 297
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f54b3fedc9381f40896668bd19b36d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_19
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 297
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5d8bea48313e1418df7a0e715c0dfc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_20
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 265
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c58f9cc5df93d44ba99a1b3e0418948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_21
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 265
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35990ea44ca9fc4c9b3ee8c20532d64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_22
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 265
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437ae919706488e44a17721ff6b36e17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_23
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 265
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee930cda0a3bf941b73080d29a0d447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_24
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 265
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1f455fcac8e50409e0cffc8d764dad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 265
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e22f9ab8e8bde14d81aec01dec1aea0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_26
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 265
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610f1b0b561df6e439779b0497fdb32f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_27
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 265
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775baef2d60f63f498a7486095f71515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_28
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 265
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c636ced7a14e6b4ab6a6ac9fbbfb2ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_29
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 265
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2510892768a4f864fb23cad7cb4a8736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_30
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 265
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ea6feb9927bb0438926e005d0695cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_31
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 265
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4b6baccc448b14b921d1cf2ca322d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_32
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 265
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a700b153d50834b9e64272d77cd4c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_33
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 265
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd4d37c9d3d54348abd9792ea9492f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_34
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 265
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa6e4c0307136441b5e89470e73c3f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_35
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 265
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dcf52feb93021f4380237f66c04f304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_36
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 265
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b76589593a5bcd429edaaa9c0bbbc09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_37
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 265
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc78b80732e7cf44964492ba63a56d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_38
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 265
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42ba5547ad96ab48a8267e595db7280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_39
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 265
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3882d586126e39c4589fcbf50ce91e7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_40
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 233
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f43f46390d1ac42ab9e553b904f843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_41
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 233
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f6a8a13f9c7b64e877c276789989e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_42
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 233
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72a129f5be1f1a4d82fe559f5cea54e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_43
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 233
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe96a83615344cb4291cec6b7132dedd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_44
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 233
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96f26cf58650c541ab5cc407333d98a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 233
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: face897474f1076428b59f0b6979082e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_46
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 233
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd96570d19f7c046bf8a0dec737f907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_47
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 233
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef83861a9a5a8c48bcdee4777e9f013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_48
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 233
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4053be53531171042828a5eb9638838f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_49
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 233
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52107030f48496b4aabbe75a3f2a9a55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_50
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 233
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8aa2e117495214a8c5cf579e4f7ef1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_51
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 233
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73142c4b679b7f4d80c8a936e8f133b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_52
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 233
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a61cbcfd72ca344192e4e5ab106550f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_53
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 233
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9baee97457f71504697e83a89820bb8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_54
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 233
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8578153ca5615924c9e490c34a4a2ec4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_55
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 233
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363c8683598706d4ca307b831c8ba23c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_56
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 233
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f82f8fe0df7dc4199ab5c77e2cbcfe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_57
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 233
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4d19f7bf4715d478c5ae6f7ebcea6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_58
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 233
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3dd7d0cf1c83d245af51b92c7658fa5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_59
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 233
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffba0267553ff24e935eef55c0e8aea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_60
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 201
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c54908009e5f24f95299393f89afb1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_61
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 201
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc2f38bbc3d9234b9ee6558508d6851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_62
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 201
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81dbaf28861f3e4a886a91e3dad2e05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_63
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 201
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768c95b961be2654783d6e26b9444850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_64
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 201
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d8fb4c2ed0b434a8626f0c41768545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_65
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 201
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24a9418bb8bd3a4ea55aec5e30657bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_66
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 201
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1c19874e03cfc48a94bbfa9420da4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_67
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 201
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b5d8861218202459b669cdfb29804a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_68
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 201
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e3ad250df2d334bbb5e11430baf80e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_69
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 201
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f98e381c2d333c43862e487f86dd754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_70
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 201
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4d6cfa5d7696f41804a7bd78b50cd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_71
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 201
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012e64f2df3ba5843a7ab78beb82dd7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_72
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 201
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec74ead0f3b10e4a84a21d61420deb9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_73
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 201
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea389dd0df99ac47ac21e086b2ca2ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_74
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 201
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e199e2565ab02e4c99006768af63cd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_75
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 201
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e3bea921fb35f48b54a3abf06ad589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_76
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 201
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14857c2c779b9734f90d9a2269db12ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_77
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 201
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f59a042979e164f9261c5bd9c7beba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_78
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 201
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5b3bc0880772f48b51789135d816d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_79
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 201
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ae2f2bbf0a5c642b94327dd12f4c3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_80
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 169
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d986360c58d0884fa2a53fab8beb066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_81
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 169
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69df201b73d1a64587385751134dcfc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_82
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 169
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f74894c67bfc7c45b5942f129c23cfb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_83
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 169
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923aa46ac8fd3414b9ce0d444f5c2af9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_84
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 169
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b38842bb9a418428551d2de122ea55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_85
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 169
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4858f7c0e8a4894d9d1bc7a99c8060b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_86
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 169
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256c32b60253bb84da04fe8053dfc842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_87
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 169
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21af89af320c5d140a286ecffcf81b6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_88
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 169
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7557409ee20635f4dba63970d7f64091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_89
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 169
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf744af711c21d94b8e215e96e80b4e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_90
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 169
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362217739ca2e4a4c9f0273771f430de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_91
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 169
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367e2becd608e184dbf61d760f58ad26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_92
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 169
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266cb2dd1a54f444b830aa694d706793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_93
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 169
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3ec451278cac445a7c5d53070268e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_94
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 169
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bd96b3c6446ee42b095933d66c06fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_95
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 169
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23728719d057b7747a6ecb4ee421158c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_96
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 169
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942b1f1c529d35f4d8ae1267ed599a1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_97
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 169
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826b2e397d705414abf624fc1add5d3f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_98
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 169
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e5b5407bce6b84ab7a3abcb1eaabc0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_99
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 169
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee642e042d46a5f40b9314872ef88857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_100
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 137
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f03dd27bb68a9643b63fec6d372a9ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_101
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 137
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71eb1400932790541918c0b3676ee5d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_102
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 137
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e503182156a264e970915f0c01ce27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_103
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 137
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f6b3838fd11b447a127944c3fd8aaf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_104
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 137
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252aae371d48f8944a9584bf6adeb62c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_105
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 137
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3776cd4a4c3f34c809e355a696c5af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_106
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 137
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d9b045d5771424d892f7f2845d7356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_107
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 137
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f31ede357507c4fb6d224a79fafdae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_108
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 137
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7a445aef844974abded408a9b09187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_109
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 137
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38b04e82e1be6f458bd38a321943c85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_110
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 137
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6824beeaefc4e1b4685c82aee80a8c16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_111
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 137
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652775c0d74b51a4f86145e9c9946b92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_112
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 137
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ac96b7de0ccd241beeab66d85096a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_113
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 137
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645f703eb9f910847b59b1b708f80aa5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_114
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 137
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35f64aa7f1698f489be10dcfd9b28a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_115
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 137
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f3d36569afc9943acb3b861875a06c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_116
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 137
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1308721dce2b9c54297b614d3809c9fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_117
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 137
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f21a838226474e4da87558cd3478814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_118
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 137
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13697f583d972414f8644a4eddc4b6da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_119
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 137
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89167ab711606044ea04d72aa961c5b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_120
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 105
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e10650e7ea171a499d0f579025c4f8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_121
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 105
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34591394b242c854bbce2506f19aa29b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_122
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 105
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9933d4c3673024c9a15afc55d48e7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_123
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 105
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea886695c0414246aa2760fae365615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_124
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 105
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45ddfd234a74f942883378d7941ca91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_125
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 105
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134bcf6f39966964797172785a01dc3c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_126
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 105
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eea88696cea84146ae7bbba675b3467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_127
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 105
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2406b6fcdd32148a6c6d0ba5ffd4ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_128
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 105
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e511073ed1bda4b874918aea462679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_129
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 105
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78718efcfc0ff094a886ae324fad4e78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_130
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 105
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a579f5a40c4fc4b4380311aeebafb0f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_131
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 105
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624ce12da79ed76448aecd8510fe65c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_132
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 105
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60d163c93f54ac40924cd99bee30585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_133
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 105
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba7022544604ab46a981c7d25084178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_134
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 105
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f102ea4a0bd3b71419e1efd9821f1d84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_135
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 105
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442cb1aded40ade4099d63f3257023a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_136
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 105
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f10f293fc76f944b6e799cd2f310f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_137
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 105
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7735aff4105f1a14aac7fb66afeef82d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_138
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 105
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad7c7531376fe0418a39b4c6bec4f3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_139
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 105
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11746955bf0a8c4c8e610251cc0a991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_140
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 73
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6797ca5e35384c24c940b41aecbe3cb1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_141
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 73
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e790804ad10a9d49b0cdcd7ec716b97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_142
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 73
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5ff702d4f263046a4d3b780addcd65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_143
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 73
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be09a8c22386314ab580002dfd66a00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_144
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 73
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f6dd8a5117b3343ac9db94b2328799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_145
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 73
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38282a5e612d98342803c2c52a052859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_146
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 73
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a43493c0ea24a94980e460508596b5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_147
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 73
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae6e7ad08d04cc459527c37bca97fd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_148
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 73
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c373dac674266c44d950e56f1bbd4248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_149
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 73
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2846edc17ad8b94cbad8d4bf897f007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_150
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 73
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec6e854a4234374b9088248b1f73015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_151
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 73
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f180a52c6356e534885fbcebb60a20d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_152
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 73
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4fcbe84d909d848a8a26a1a28a3e01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_153
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 73
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1c6c587d51ad34a8514643bb02cf8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_154
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 73
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60b4fea69876294381e30cbade5dd65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_155
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 73
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c8322f31ba9584b920a08aa34d49a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_156
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 73
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ec2569e0c8ff54da789829b148cbbe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_157
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 73
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338d5ddc383da2545afc38c4bdc0535b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_158
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 73
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f60177cac7d5d04e841fe4c31ad0aaa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_159
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 73
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58bcfd9244e41ef4faef8235847788f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_160
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 41
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a12479aa603ded46aaf083899bdddc5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_161
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 41
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73246c3bf106aa74faa92263855b13c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_162
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 41
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37cd260f149eb7e48ab304e6fd78d344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_163
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 41
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a1b4f0a9af670499aa3f21461050b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_164
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 41
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844e161af942ef54a8ee220fe1d3874e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_165
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 41
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c7f8f3998e7f14db362d94b23ed0ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_166
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 41
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4fcb0b552ab5d4c85f6dda1b679b57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_167
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 41
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60bfab2d4ae705d418d718c1d88a26fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_168
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 41
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8caec657a2e16974ea50fff4e0059cd8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_169
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 41
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee8e815f07bd2741bb3eaf331cd2535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_170
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 41
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210ac36c164fabf46aa7e5643ca63584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_171
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 41
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f992cfd94b6caa84e9b00a04779d7f79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_172
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 41
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c4e0d6442120d45bbb5a5004d14a46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_173
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 41
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c500810a64854ef4998615aec6e60f8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_174
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 41
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac40121175798f44085a3c8ed42a437e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_175
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 41
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7a6bf90bbaee043aa85a2661e5237e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_176
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 41
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9f01372e238214a8d58a6ce9e4c94f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_177
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 41
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d6c3de44d2e5c469f1ec3c50e2f75d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_178
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 41
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49faa0bf49f3854a8bd989e9f57f1dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_179
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 41
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d112b532705d1464eaf316993d59b390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_180
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 9
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a215505071e564fafa6c4fc85e3fa3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_181
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 9
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6e8d593edae0545907c902b62216ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_182
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 9
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078d3e9a49143754c8da23087d7122f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_183
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 9
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6301b11637cbd82478ea439da99942e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_184
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 9
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed409410bf85ee4080a70347ea47114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_185
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 9
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600fa2be1c9c4ca4cad2658000bef533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_186
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 9
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710c192d7b3b7394288124e6d60d42de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_187
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 9
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ff37eddac0b2c44bd7cf6f94bb0c5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_188
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 9
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493c028842287f344b796101751be331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_189
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 9
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60402ba30297d2446a3fcaa43e0b38c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_190
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 9
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ee54595ae1a5b40b06e5c2f0736eaf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_191
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 9
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc53a2b83c35224cb4acfa0ad42ee7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_192
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 9
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b04c9ac7ca9a946b3e055c5ff704d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_193
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 9
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23d826b475025f41a219bd6e82fa309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_194
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 9
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11683ba6c0f92c84ea1055d81dedbae8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_195
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 9
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b846357ac4526f144b07916df565201f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_196
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 9
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7964e82881b8814fa5c35acf6cae255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_197
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 9
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f93c6737ca28574b9268e54cad02bd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_198
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 9
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1dc5515ef26484884f1442c0d59c4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Objects & Blocks_199
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 9
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f99ab9989356a642a752f2eecdd2a8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 719744c2801d28c459320bb961ec67e6
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

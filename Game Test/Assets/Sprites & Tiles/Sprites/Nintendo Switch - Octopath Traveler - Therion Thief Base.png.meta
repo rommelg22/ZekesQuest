@@ -1,0 +1,5906 @@
+fileFormatVersion: 2
+guid: 69c8320074e6ac9439e324bd178ea859
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Nintendo Switch - Octopath Traveler - Therion Thief Base_0
+    21300002: Nintendo Switch - Octopath Traveler - Therion Thief Base_1
+    21300004: Nintendo Switch - Octopath Traveler - Therion Thief Base_2
+    21300006: Nintendo Switch - Octopath Traveler - Therion Thief Base_3
+    21300008: Nintendo Switch - Octopath Traveler - Therion Thief Base_4
+    21300010: Nintendo Switch - Octopath Traveler - Therion Thief Base_5
+    21300012: Nintendo Switch - Octopath Traveler - Therion Thief Base_6
+    21300014: Nintendo Switch - Octopath Traveler - Therion Thief Base_7
+    21300016: Nintendo Switch - Octopath Traveler - Therion Thief Base_8
+    21300018: Nintendo Switch - Octopath Traveler - Therion Thief Base_9
+    21300020: Nintendo Switch - Octopath Traveler - Therion Thief Base_10
+    21300022: Nintendo Switch - Octopath Traveler - Therion Thief Base_11
+    21300024: Nintendo Switch - Octopath Traveler - Therion Thief Base_12
+    21300026: Nintendo Switch - Octopath Traveler - Therion Thief Base_13
+    21300028: Nintendo Switch - Octopath Traveler - Therion Thief Base_14
+    21300030: Nintendo Switch - Octopath Traveler - Therion Thief Base_15
+    21300032: Nintendo Switch - Octopath Traveler - Therion Thief Base_16
+    21300034: Nintendo Switch - Octopath Traveler - Therion Thief Base_17
+    21300036: Nintendo Switch - Octopath Traveler - Therion Thief Base_18
+    21300038: Nintendo Switch - Octopath Traveler - Therion Thief Base_19
+    21300040: Nintendo Switch - Octopath Traveler - Therion Thief Base_20
+    21300042: Nintendo Switch - Octopath Traveler - Therion Thief Base_21
+    21300044: Nintendo Switch - Octopath Traveler - Therion Thief Base_22
+    21300046: Nintendo Switch - Octopath Traveler - Therion Thief Base_23
+    21300048: Nintendo Switch - Octopath Traveler - Therion Thief Base_24
+    21300050: Nintendo Switch - Octopath Traveler - Therion Thief Base_25
+    21300052: Nintendo Switch - Octopath Traveler - Therion Thief Base_26
+    21300054: Nintendo Switch - Octopath Traveler - Therion Thief Base_27
+    21300056: Nintendo Switch - Octopath Traveler - Therion Thief Base_28
+    21300058: Nintendo Switch - Octopath Traveler - Therion Thief Base_29
+    21300060: Nintendo Switch - Octopath Traveler - Therion Thief Base_30
+    21300062: Nintendo Switch - Octopath Traveler - Therion Thief Base_31
+    21300064: Nintendo Switch - Octopath Traveler - Therion Thief Base_32
+    21300066: Nintendo Switch - Octopath Traveler - Therion Thief Base_33
+    21300068: Nintendo Switch - Octopath Traveler - Therion Thief Base_34
+    21300070: Nintendo Switch - Octopath Traveler - Therion Thief Base_35
+    21300072: Nintendo Switch - Octopath Traveler - Therion Thief Base_36
+    21300074: Nintendo Switch - Octopath Traveler - Therion Thief Base_37
+    21300076: Nintendo Switch - Octopath Traveler - Therion Thief Base_38
+    21300078: Nintendo Switch - Octopath Traveler - Therion Thief Base_39
+    21300080: Nintendo Switch - Octopath Traveler - Therion Thief Base_40
+    21300082: Nintendo Switch - Octopath Traveler - Therion Thief Base_41
+    21300084: Nintendo Switch - Octopath Traveler - Therion Thief Base_42
+    21300086: Nintendo Switch - Octopath Traveler - Therion Thief Base_43
+    21300088: Nintendo Switch - Octopath Traveler - Therion Thief Base_44
+    21300090: Nintendo Switch - Octopath Traveler - Therion Thief Base_45
+    21300092: Nintendo Switch - Octopath Traveler - Therion Thief Base_46
+    21300094: Nintendo Switch - Octopath Traveler - Therion Thief Base_47
+    21300096: Nintendo Switch - Octopath Traveler - Therion Thief Base_48
+    21300098: Nintendo Switch - Octopath Traveler - Therion Thief Base_49
+    21300100: Nintendo Switch - Octopath Traveler - Therion Thief Base_50
+    21300102: Nintendo Switch - Octopath Traveler - Therion Thief Base_51
+    21300104: Nintendo Switch - Octopath Traveler - Therion Thief Base_52
+    21300106: Nintendo Switch - Octopath Traveler - Therion Thief Base_53
+    21300108: Nintendo Switch - Octopath Traveler - Therion Thief Base_54
+    21300110: Nintendo Switch - Octopath Traveler - Therion Thief Base_55
+    21300112: Nintendo Switch - Octopath Traveler - Therion Thief Base_56
+    21300114: Nintendo Switch - Octopath Traveler - Therion Thief Base_57
+    21300116: Nintendo Switch - Octopath Traveler - Therion Thief Base_58
+    21300118: Nintendo Switch - Octopath Traveler - Therion Thief Base_59
+    21300120: Nintendo Switch - Octopath Traveler - Therion Thief Base_60
+    21300122: Nintendo Switch - Octopath Traveler - Therion Thief Base_61
+    21300124: Nintendo Switch - Octopath Traveler - Therion Thief Base_62
+    21300126: Nintendo Switch - Octopath Traveler - Therion Thief Base_63
+    21300128: Nintendo Switch - Octopath Traveler - Therion Thief Base_64
+    21300130: Nintendo Switch - Octopath Traveler - Therion Thief Base_65
+    21300132: Nintendo Switch - Octopath Traveler - Therion Thief Base_66
+    21300134: Nintendo Switch - Octopath Traveler - Therion Thief Base_67
+    21300136: Nintendo Switch - Octopath Traveler - Therion Thief Base_68
+    21300138: Nintendo Switch - Octopath Traveler - Therion Thief Base_69
+    21300140: Nintendo Switch - Octopath Traveler - Therion Thief Base_70
+    21300142: Nintendo Switch - Octopath Traveler - Therion Thief Base_71
+    21300144: Nintendo Switch - Octopath Traveler - Therion Thief Base_72
+    21300146: Nintendo Switch - Octopath Traveler - Therion Thief Base_73
+    21300148: Nintendo Switch - Octopath Traveler - Therion Thief Base_74
+    21300150: Nintendo Switch - Octopath Traveler - Therion Thief Base_75
+    21300152: Nintendo Switch - Octopath Traveler - Therion Thief Base_76
+    21300154: Nintendo Switch - Octopath Traveler - Therion Thief Base_77
+    21300156: Nintendo Switch - Octopath Traveler - Therion Thief Base_78
+    21300158: Nintendo Switch - Octopath Traveler - Therion Thief Base_79
+    21300160: Nintendo Switch - Octopath Traveler - Therion Thief Base_80
+    21300162: Nintendo Switch - Octopath Traveler - Therion Thief Base_81
+    21300164: Nintendo Switch - Octopath Traveler - Therion Thief Base_82
+    21300166: Nintendo Switch - Octopath Traveler - Therion Thief Base_83
+    21300168: Nintendo Switch - Octopath Traveler - Therion Thief Base_84
+    21300170: Nintendo Switch - Octopath Traveler - Therion Thief Base_85
+    21300172: Nintendo Switch - Octopath Traveler - Therion Thief Base_86
+    21300174: Nintendo Switch - Octopath Traveler - Therion Thief Base_87
+    21300176: Nintendo Switch - Octopath Traveler - Therion Thief Base_88
+    21300178: Nintendo Switch - Octopath Traveler - Therion Thief Base_89
+    21300180: Nintendo Switch - Octopath Traveler - Therion Thief Base_90
+    21300182: Nintendo Switch - Octopath Traveler - Therion Thief Base_91
+    21300184: Nintendo Switch - Octopath Traveler - Therion Thief Base_92
+    21300186: Nintendo Switch - Octopath Traveler - Therion Thief Base_93
+    21300188: Nintendo Switch - Octopath Traveler - Therion Thief Base_94
+    21300190: Nintendo Switch - Octopath Traveler - Therion Thief Base_95
+    21300192: Nintendo Switch - Octopath Traveler - Therion Thief Base_96
+    21300194: Nintendo Switch - Octopath Traveler - Therion Thief Base_97
+    21300196: Nintendo Switch - Octopath Traveler - Therion Thief Base_98
+    21300198: Nintendo Switch - Octopath Traveler - Therion Thief Base_99
+    21300200: Nintendo Switch - Octopath Traveler - Therion Thief Base_100
+    21300202: Nintendo Switch - Octopath Traveler - Therion Thief Base_101
+    21300204: Nintendo Switch - Octopath Traveler - Therion Thief Base_102
+    21300206: Nintendo Switch - Octopath Traveler - Therion Thief Base_103
+    21300208: Nintendo Switch - Octopath Traveler - Therion Thief Base_104
+    21300210: Nintendo Switch - Octopath Traveler - Therion Thief Base_105
+    21300212: Nintendo Switch - Octopath Traveler - Therion Thief Base_106
+    21300214: Nintendo Switch - Octopath Traveler - Therion Thief Base_107
+    21300216: Nintendo Switch - Octopath Traveler - Therion Thief Base_108
+    21300218: Nintendo Switch - Octopath Traveler - Therion Thief Base_109
+    21300220: Nintendo Switch - Octopath Traveler - Therion Thief Base_110
+    21300222: Nintendo Switch - Octopath Traveler - Therion Thief Base_111
+    21300224: Nintendo Switch - Octopath Traveler - Therion Thief Base_112
+    21300226: Nintendo Switch - Octopath Traveler - Therion Thief Base_113
+    21300228: Nintendo Switch - Octopath Traveler - Therion Thief Base_114
+    21300230: Nintendo Switch - Octopath Traveler - Therion Thief Base_115
+    21300232: Nintendo Switch - Octopath Traveler - Therion Thief Base_116
+    21300234: Nintendo Switch - Octopath Traveler - Therion Thief Base_117
+    21300236: Nintendo Switch - Octopath Traveler - Therion Thief Base_118
+    21300238: Nintendo Switch - Octopath Traveler - Therion Thief Base_119
+    21300240: Nintendo Switch - Octopath Traveler - Therion Thief Base_120
+    21300242: Nintendo Switch - Octopath Traveler - Therion Thief Base_121
+    21300244: Nintendo Switch - Octopath Traveler - Therion Thief Base_122
+    21300246: Nintendo Switch - Octopath Traveler - Therion Thief Base_123
+    21300248: Nintendo Switch - Octopath Traveler - Therion Thief Base_124
+    21300250: Nintendo Switch - Octopath Traveler - Therion Thief Base_125
+    21300252: Nintendo Switch - Octopath Traveler - Therion Thief Base_126
+    21300254: Nintendo Switch - Octopath Traveler - Therion Thief Base_127
+    21300256: Nintendo Switch - Octopath Traveler - Therion Thief Base_128
+    21300258: Nintendo Switch - Octopath Traveler - Therion Thief Base_129
+    21300260: Nintendo Switch - Octopath Traveler - Therion Thief Base_130
+    21300262: Nintendo Switch - Octopath Traveler - Therion Thief Base_131
+    21300264: Nintendo Switch - Octopath Traveler - Therion Thief Base_132
+    21300266: Nintendo Switch - Octopath Traveler - Therion Thief Base_133
+    21300268: Nintendo Switch - Octopath Traveler - Therion Thief Base_134
+    21300270: Nintendo Switch - Octopath Traveler - Therion Thief Base_135
+    21300272: Nintendo Switch - Octopath Traveler - Therion Thief Base_136
+    21300274: Nintendo Switch - Octopath Traveler - Therion Thief Base_137
+    21300276: Nintendo Switch - Octopath Traveler - Therion Thief Base_138
+    21300278: Nintendo Switch - Octopath Traveler - Therion Thief Base_139
+    21300280: Nintendo Switch - Octopath Traveler - Therion Thief Base_140
+    21300282: Nintendo Switch - Octopath Traveler - Therion Thief Base_141
+    21300284: Nintendo Switch - Octopath Traveler - Therion Thief Base_142
+    21300286: Nintendo Switch - Octopath Traveler - Therion Thief Base_143
+    21300288: Nintendo Switch - Octopath Traveler - Therion Thief Base_144
+    21300290: Nintendo Switch - Octopath Traveler - Therion Thief Base_145
+    21300292: Nintendo Switch - Octopath Traveler - Therion Thief Base_146
+    21300294: Nintendo Switch - Octopath Traveler - Therion Thief Base_147
+    21300296: Nintendo Switch - Octopath Traveler - Therion Thief Base_148
+    21300298: Nintendo Switch - Octopath Traveler - Therion Thief Base_149
+    21300300: Nintendo Switch - Octopath Traveler - Therion Thief Base_150
+    21300302: Nintendo Switch - Octopath Traveler - Therion Thief Base_151
+    21300304: Nintendo Switch - Octopath Traveler - Therion Thief Base_152
+    21300306: Nintendo Switch - Octopath Traveler - Therion Thief Base_153
+    21300308: Nintendo Switch - Octopath Traveler - Therion Thief Base_154
+    21300310: Nintendo Switch - Octopath Traveler - Therion Thief Base_155
+    21300312: Nintendo Switch - Octopath Traveler - Therion Thief Base_156
+    21300314: Nintendo Switch - Octopath Traveler - Therion Thief Base_157
+    21300316: Nintendo Switch - Octopath Traveler - Therion Thief Base_158
+    21300318: Nintendo Switch - Octopath Traveler - Therion Thief Base_159
+    21300320: Nintendo Switch - Octopath Traveler - Therion Thief Base_160
+    21300322: Nintendo Switch - Octopath Traveler - Therion Thief Base_161
+    21300324: Nintendo Switch - Octopath Traveler - Therion Thief Base_162
+    21300326: Nintendo Switch - Octopath Traveler - Therion Thief Base_163
+    21300328: Nintendo Switch - Octopath Traveler - Therion Thief Base_164
+    21300330: Nintendo Switch - Octopath Traveler - Therion Thief Base_165
+    21300332: Nintendo Switch - Octopath Traveler - Therion Thief Base_166
+    21300334: Nintendo Switch - Octopath Traveler - Therion Thief Base_167
+    21300336: Nintendo Switch - Octopath Traveler - Therion Thief Base_168
+    21300338: Nintendo Switch - Octopath Traveler - Therion Thief Base_169
+    21300340: Nintendo Switch - Octopath Traveler - Therion Thief Base_170
+    21300342: Nintendo Switch - Octopath Traveler - Therion Thief Base_171
+    21300344: Nintendo Switch - Octopath Traveler - Therion Thief Base_172
+    21300346: Nintendo Switch - Octopath Traveler - Therion Thief Base_173
+    21300348: Nintendo Switch - Octopath Traveler - Therion Thief Base_174
+    21300350: Nintendo Switch - Octopath Traveler - Therion Thief Base_175
+    21300352: Nintendo Switch - Octopath Traveler - Therion Thief Base_176
+    21300354: Nintendo Switch - Octopath Traveler - Therion Thief Base_177
+    21300356: Nintendo Switch - Octopath Traveler - Therion Thief Base_178
+    21300358: Nintendo Switch - Octopath Traveler - Therion Thief Base_179
+    21300360: Nintendo Switch - Octopath Traveler - Therion Thief Base_180
+    21300362: Nintendo Switch - Octopath Traveler - Therion Thief Base_181
+    21300364: Nintendo Switch - Octopath Traveler - Therion Thief Base_182
+    21300366: Nintendo Switch - Octopath Traveler - Therion Thief Base_183
+    21300368: Nintendo Switch - Octopath Traveler - Therion Thief Base_184
+    21300370: Nintendo Switch - Octopath Traveler - Therion Thief Base_185
+    21300372: Nintendo Switch - Octopath Traveler - Therion Thief Base_186
+    21300374: Nintendo Switch - Octopath Traveler - Therion Thief Base_187
+    21300376: Nintendo Switch - Octopath Traveler - Therion Thief Base_188
+    21300378: Nintendo Switch - Octopath Traveler - Therion Thief Base_189
+    21300380: Nintendo Switch - Octopath Traveler - Therion Thief Base_190
+    21300382: Nintendo Switch - Octopath Traveler - Therion Thief Base_191
+    21300384: Nintendo Switch - Octopath Traveler - Therion Thief Base_192
+    21300386: Nintendo Switch - Octopath Traveler - Therion Thief Base_193
+    21300388: Nintendo Switch - Octopath Traveler - Therion Thief Base_194
+    21300390: Nintendo Switch - Octopath Traveler - Therion Thief Base_195
+    21300392: Nintendo Switch - Octopath Traveler - Therion Thief Base_196
+    21300394: Nintendo Switch - Octopath Traveler - Therion Thief Base_197
+    21300396: Nintendo Switch - Octopath Traveler - Therion Thief Base_198
+    21300398: Nintendo Switch - Octopath Traveler - Therion Thief Base_199
+    21300400: Nintendo Switch - Octopath Traveler - Therion Thief Base_200
+    21300402: Nintendo Switch - Octopath Traveler - Therion Thief Base_201
+    21300404: Nintendo Switch - Octopath Traveler - Therion Thief Base_202
+    21300406: Nintendo Switch - Octopath Traveler - Therion Thief Base_203
+    21300408: Nintendo Switch - Octopath Traveler - Therion Thief Base_204
+    21300410: Nintendo Switch - Octopath Traveler - Therion Thief Base_205
+    21300412: Nintendo Switch - Octopath Traveler - Therion Thief Base_206
+    21300414: Nintendo Switch - Octopath Traveler - Therion Thief Base_207
+    21300416: Nintendo Switch - Octopath Traveler - Therion Thief Base_208
+    21300418: Nintendo Switch - Octopath Traveler - Therion Thief Base_209
+    21300420: Nintendo Switch - Octopath Traveler - Therion Thief Base_210
+    21300422: Nintendo Switch - Octopath Traveler - Therion Thief Base_211
+    21300424: Nintendo Switch - Octopath Traveler - Therion Thief Base_212
+    21300426: Nintendo Switch - Octopath Traveler - Therion Thief Base_213
+    21300428: Nintendo Switch - Octopath Traveler - Therion Thief Base_214
+    21300430: Nintendo Switch - Octopath Traveler - Therion Thief Base_215
+    21300432: Nintendo Switch - Octopath Traveler - Therion Thief Base_216
+    21300434: Nintendo Switch - Octopath Traveler - Therion Thief Base_217
+    21300436: Nintendo Switch - Octopath Traveler - Therion Thief Base_218
+    21300438: Nintendo Switch - Octopath Traveler - Therion Thief Base_219
+    21300440: Nintendo Switch - Octopath Traveler - Therion Thief Base_220
+    21300442: Nintendo Switch - Octopath Traveler - Therion Thief Base_221
+    21300444: Nintendo Switch - Octopath Traveler - Therion Thief Base_222
+    21300446: Nintendo Switch - Octopath Traveler - Therion Thief Base_223
+    21300448: Nintendo Switch - Octopath Traveler - Therion Thief Base_224
+    21300450: Nintendo Switch - Octopath Traveler - Therion Thief Base_225
+    21300452: Nintendo Switch - Octopath Traveler - Therion Thief Base_226
+    21300454: Nintendo Switch - Octopath Traveler - Therion Thief Base_227
+    21300456: Nintendo Switch - Octopath Traveler - Therion Thief Base_228
+    21300458: Nintendo Switch - Octopath Traveler - Therion Thief Base_229
+    21300460: Nintendo Switch - Octopath Traveler - Therion Thief Base_230
+    21300462: Nintendo Switch - Octopath Traveler - Therion Thief Base_231
+    21300464: Nintendo Switch - Octopath Traveler - Therion Thief Base_232
+    21300466: Nintendo Switch - Octopath Traveler - Therion Thief Base_233
+    21300468: Nintendo Switch - Octopath Traveler - Therion Thief Base_234
+    21300470: Nintendo Switch - Octopath Traveler - Therion Thief Base_235
+    21300472: Nintendo Switch - Octopath Traveler - Therion Thief Base_236
+    21300474: Nintendo Switch - Octopath Traveler - Therion Thief Base_237
+    21300476: Nintendo Switch - Octopath Traveler - Therion Thief Base_238
+    21300478: Nintendo Switch - Octopath Traveler - Therion Thief Base_239
+    21300480: Nintendo Switch - Octopath Traveler - Therion Thief Base_240
+    21300482: Nintendo Switch - Octopath Traveler - Therion Thief Base_241
+    21300484: Nintendo Switch - Octopath Traveler - Therion Thief Base_242
+    21300486: Nintendo Switch - Octopath Traveler - Therion Thief Base_243
+    21300488: Nintendo Switch - Octopath Traveler - Therion Thief Base_244
+    21300490: Nintendo Switch - Octopath Traveler - Therion Thief Base_245
+    21300492: Nintendo Switch - Octopath Traveler - Therion Thief Base_246
+    21300494: Nintendo Switch - Octopath Traveler - Therion Thief Base_247
+    21300496: Nintendo Switch - Octopath Traveler - Therion Thief Base_248
+    21300498: Nintendo Switch - Octopath Traveler - Therion Thief Base_249
+    21300500: Nintendo Switch - Octopath Traveler - Therion Thief Base_250
+    21300502: Nintendo Switch - Octopath Traveler - Therion Thief Base_251
+    21300504: Nintendo Switch - Octopath Traveler - Therion Thief Base_252
+    21300506: Nintendo Switch - Octopath Traveler - Therion Thief Base_253
+    21300508: Nintendo Switch - Octopath Traveler - Therion Thief Base_254
+    21300510: Nintendo Switch - Octopath Traveler - Therion Thief Base_255
+    21300512: Nintendo Switch - Octopath Traveler - Therion Thief Base_256
+    21300514: Nintendo Switch - Octopath Traveler - Therion Thief Base_257
+    21300516: Nintendo Switch - Octopath Traveler - Therion Thief Base_258
+    21300518: Nintendo Switch - Octopath Traveler - Therion Thief Base_259
+    21300520: Nintendo Switch - Octopath Traveler - Therion Thief Base_260
+    21300522: Nintendo Switch - Octopath Traveler - Therion Thief Base_261
+    21300524: Nintendo Switch - Octopath Traveler - Therion Thief Base_262
+    21300526: Nintendo Switch - Octopath Traveler - Therion Thief Base_263
+    21300528: Nintendo Switch - Octopath Traveler - Therion Thief Base_264
+    21300530: Nintendo Switch - Octopath Traveler - Therion Thief Base_265
+    21300532: Nintendo Switch - Octopath Traveler - Therion Thief Base_266
+    21300534: Nintendo Switch - Octopath Traveler - Therion Thief Base_267
+    21300536: Nintendo Switch - Octopath Traveler - Therion Thief Base_268
+    21300538: Nintendo Switch - Octopath Traveler - Therion Thief Base_269
+    21300540: Nintendo Switch - Octopath Traveler - Therion Thief Base_270
+    21300542: Nintendo Switch - Octopath Traveler - Therion Thief Base_271
+    21300544: Nintendo Switch - Octopath Traveler - Therion Thief Base_272
+    21300546: Nintendo Switch - Octopath Traveler - Therion Thief Base_273
+    21300548: Nintendo Switch - Octopath Traveler - Therion Thief Base_274
+    21300550: Nintendo Switch - Octopath Traveler - Therion Thief Base_275
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 477
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ddb9be8121a2f49bf4aef9e6415bdf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 484
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089310c60d72335499b1c945be55348d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 481
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e4e6222a83d124ca8b232e9e4dbafd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_3
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 482
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606c2ca953681024ca9d8c2ba05eaeef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_4
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 478
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e238b9861d02354b9687b345024d344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_5
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 477
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f2a2f86bbbe8247acb88384a9c756a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_6
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 484
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5db599c32613404b9c92bbd3ee9d7d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_7
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 481
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bded7291ee439e4182e378343e695ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_8
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 482
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e5e0022d2c3f24fa0d9a88107f5446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_9
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 478
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a1ea870db4781429d8e9a4ac96e49e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_10
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 477
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0df430398bfdd4ab0bb14435a17b67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_11
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 477
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d387dc4aab9394f96b6213918dbd6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_12
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 477
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ca6fbeef10bfa449f605cfbb2a7578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_13
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 479
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82324920e38fc0643bb68e4eebf18502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_14
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 481
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85bf50db7f15b4a498a093720324630a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_15
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 481
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f730230fffdd1344698ffeb380d2a86c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_16
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 482
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15cc6d4227760146a4a5f506818037f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_17
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 482
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cec042f559afb4bb8f122f703fc59f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_18
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 482
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69acca73bf8fb144ac24990db33cca6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_19
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 481
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa41b8a7a70955349b5a54ee6cc415f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 444
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ddca6582f57ece46b7ef1d3b6dad9ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_21
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 442
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a8d306711e8784ea986d48bb6c79e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_22
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 444
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8bc0d98346ded4b8a84051b6944ce1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_23
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 446
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2231fa52f38cdec419ed86c875365b1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 446
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17aa5cf9148c1d944a4fcd8f1cb4433a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_25
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 447
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c521335905f461c47bb0de1d3867ae86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_26
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 447
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6dc02df8e9b48469efcef0830cc190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_27
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 447
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b5af0ae15aa8144b07e88bc1de3f4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_28
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 446
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902be483cd6e2624984e4c089df4caf2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_29
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 444
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2848eaeff72a05b4ab5219d05953cf60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_30
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 445
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559584945508b6f4b9ac76a5f11c874e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_31
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 445
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295a1a475ef9974428edbb9bef132789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_32
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 442
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65931029008c73143af3aecb7dab2329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_33
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 442
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39efc5b400d8f9849920315e932baf73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_34
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 451
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872f0f8ae13a451418d4395d91baf402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_35
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 451
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef37172d940867c4280ca3d213052918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_36
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 451
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7a18a84c811db4ca101d3f491a3af7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_37
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 451
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb43a408b37f6b4d8f684025aa7ca7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_38
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 451
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da979b05e95ae344391b07159a9415ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_39
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 451
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e3bcd12d0796e4d8d7b85af66067b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_40
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 445
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a04b01dd92cbbf46bb12b4b3f1723ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_41
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 445
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf5577505d6a464cacc6490c34a1583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_42
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 407
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c7249a95c432442af38da87452b11c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_43
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 407
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df466be7197f71c4d9ffe1485ac01303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_44
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 407
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd803bc986cb47429fb0dc5aeb96165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_45
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 407
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990248a356db7be43bf7ac9a44a24b97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_46
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 407
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ada7b7d36eed144a4d86d05748f569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_47
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 407
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173bbda289f81234188d35256cf0109d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_48
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 407
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7138626f12962b4fad66aac6eb997e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_49
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 407
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fbfce3a28a9e4478cc9fe43bdf01dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_50
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 408
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7fb6a2dfbdc2d42997b7214a1b70e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_51
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 408
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757a84eb5d906b6489a4a2aba67eec66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_52
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 407
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a8721147910734a91142affd1637ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_53
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 407
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceee492d93d4bac40b20eaad5b9d640b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_54
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 428
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d852db27b3b6b4db0972a112275a27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_55
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 428
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a329683cd4d87a4bb1e5017b3fdca77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_56
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 409
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c466f1954ba4bf4cb44c0be122baca6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_57
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 409
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a2e869f8e4d3846ba02f5ca7b8daca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_58
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 409
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2684af192234b479a8fe7dea5e9401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_59
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 409
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a52db8c3725ab4c84e3411637d4382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_60
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 409
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b8df020fb1ad9459235aa9399ce402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_61
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 409
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724999adac8f1f84cb460c36a467d3ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_62
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 409
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5212144895ab61743a3240a5217ba9b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_63
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 374
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95662c5c7f3f64f44a626f8118780484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_64
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 372
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847d3082e9cdd9b458dd46012da1e719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_65
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 372
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5119e2cd2caabf14792c39f369f38e7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_66
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 372
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f3058c0fb1156408ec39ed12d4f209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_67
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 372
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd46581d2fdec340a1cffc0d3501be3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_68
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 372
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b9b25c2ffca2d41a74be200b0f9f72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_69
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 374
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d68dad721df4f4cad2e9342a20187f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_70
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 374
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5f7e4e90f1c1941ade3b0678b5a8e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_71
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 377
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d8efd5d9a9c8f47aef6abd14538436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_72
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 377
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374b87ab85311aa4ab31cfa0292a150a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_73
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 372
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b15bd88adbade8418bc532847bd8122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_74
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 372
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1ec0e6d9e8e9e4cab68700306b486a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_75
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 372
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceaea8c252279674990e1b7b3745e8ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_76
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 372
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb60b1a851edd8141b7bb5b454cb4d2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_77
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 372
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70cb2aa34d501734bbf754a8793cc73e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_78
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 372
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ddd7e78eac227b44aa741c5c9ae44c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_79
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 372
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2554fb71a1686a4782a40aed7355452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_80
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 372
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988c2af9bfcf3ec408359061b711af8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_81
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 372
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7216b5eb16cdaf499e095f6c1783ff3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_82
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 372
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4861856403ab6244280008510101caa6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_83
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 372
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13025505b16486a488fcb6d5dae73de2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_84
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 337
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4442292b7e898e4ab6ea4e3f78c5c5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_85
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 337
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f33a3a72ff285d4cb692f2925943350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_86
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 337
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca6d2f845ee7e847b4c7d83589f8b13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_87
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 337
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae7282ebe4865447959867809b6ccd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_88
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 337
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105856d884f3e344eb297e08d348ad9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_89
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 337
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee0fe7ca2e9c354a89b2f1950e9f752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_90
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 337
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02dc1f432b36b7d4da18b94932d3d8a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_91
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 337
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4569094ae10463048bcf9a1c28a850c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_92
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 337
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c13bbf9c983e8242b35d8280dc8e40e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_93
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 337
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95e10dfdd44d5748956fce81069840c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_94
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 338
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59026c68145380f46ba73821dbc2a756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_95
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 337
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03f07b99840564459d7d0e2fcd3e546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_96
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 338
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c3ebdcb20cdc7438d94a66c9f3931f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_97
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 337
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0938acd729cd4842ba0d3bb518bd195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_98
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 338
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94bb6cc758374b4428a48d61bbe88407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_99
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 338
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00a3f841e9c0af4b964b29f2bd534c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_100
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 337
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c42aeac8bbe9a48880bba906754f93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_101
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 337
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51da4b37ef017b4db3366dc07ebbb34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_102
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 337
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a8fe15a34f0ee4cb32166181a9183e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_103
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 337
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caab3b8bb222acf4f8292f63bf5b5425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_104
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 337
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79dbcb5054027f340a275faeda2ed936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_105
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 337
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14128f7e32ef7af4998d9d098cb80a57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_106
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 337
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0baf0103dbd404c893e1589bb44755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_107
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 302
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9db67485dbb0ae49aed9e1975e04b0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_108
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 302
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ae30052ce663540b98ee6adee32523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_109
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 302
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb76dca427baaf49a393b7870151846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_110
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 320
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b8b7514d11a0048a20462b0fc052a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_111
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 320
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33995407ff427384d9c97918a195fde2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_112
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 302
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb59b19a34633664fb2e14b2e9d5898d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_113
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 302
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eaaa9319dfb9614f9acf3ec5296f4ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_114
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 302
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c08978a556844046b1c9b96f63764e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_115
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 302
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf63aee2c7b859f469654cbf2bd23791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_116
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 302
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d2cb87e6a46c942b09dcbf273c186d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_117
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 310
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a0d56f86f38c746a1058b2330f45ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_118
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 310
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb63a7eabf86b247b889694e6a58114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_119
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 302
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd95dd82f6d4c5489fa5c9309be577c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_120
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 302
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc08a3f922c3cc545a734bf708c2d00f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_121
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 302
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfae214c23c657141ba75af92a5517ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_122
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 302
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca181667e54a1b448ad3ed4d3c425e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_123
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 302
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9612cd6e633f2439746fe81bbd07ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_124
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 302
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426ce76c0829af143b8306284e79cce0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_125
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 302
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761b707ab2ec99443af7ffd7d2e7155b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_126
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 302
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a315d02b31f6645acbd554b32d018f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_127
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 302
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7183f915e99c5439e02b59983caf49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_128
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 302
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79eaf1d6b3664014abdbbbd7c09112a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_129
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 267
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ec9b7cd3838134b80b6391cac3e6f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_130
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 267
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac829444df2c04345af36ee4ae605840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_131
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 270
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba45dfbbcf48404bb10ab59e8750e8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_132
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 268
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e3b7a52bc03fd4f8693b9c1efbd5e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_133
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 267
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7eed48d4c2e4844a80f2a58c3b3a0ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_134
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 270
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbf242833d654240986b2ef49accade
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_135
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 268
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65db775ebd26fc740b1d41d845e7f0ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_136
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 267
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89403ea67881608498d1c2a04d227a4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_137
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 270
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7feeb295b45de2c4192e1c7467b5bc61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_138
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 268
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf7857efaf6a7841b16cba74ba679a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_139
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 267
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: accb4f015872b6949b356c1611107206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_140
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 270
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2e912490ba57f43beec46c52e1e29f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_141
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 268
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002b97122a90ca9408038e49ef1078bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_142
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 267
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f446755373bd14e49bbdede79180f8c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_143
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 270
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4973fe7cec8d55f4cbaafc22d28566c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_144
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 269
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415d5bc720dd48a449bd277a26ef8d03
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_145
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 268
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ec82dec4b185843bf90faeb04dcc3f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_146
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 270
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7a796c5cee98c459a21806ee86c6da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_147
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 269
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040946e41a43a604da0b53db0b415e30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_148
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 268
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafb053654c456f45823a8df4ad8b15c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_149
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 270
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4725805226d2341adc4243791dbaa3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_150
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 269
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e9341d492edd840b5bd32aa9e5b8a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_151
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 268
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab65f92066337a94199de4f3dd0232cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_152
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 270
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a96e8854a65934abb58d269b0a4ac9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_153
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 269
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837a13b6c60cb874c99fea7a50b56bc5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_154
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 268
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad6a8aecab102946b3a09c52a02c44a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_155
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 233
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed476829d235d144ad007befe01ced3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_156
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 232
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed556e7fa24bff94a963dcbc078f5f04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_157
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 231
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5279acd3ec8acf48b83a98707115977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_158
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 234
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec3aac4588f69541a5170b32e18ca40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_159
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 233
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7a6df1718273a40948becdf041cdb2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_160
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 232
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02adb586fa703ff4a9f0652b1d27da76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_161
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 233
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ccf91bc990069c49941ce7207d055af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_162
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 232
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30bc3991e2f1ce43b90c104078b1c2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_163
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 231
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb09203aba4d0e94691cfdfbaf0b4c55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_164
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 234
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a6425556deec442b3fd0f3a3ae1232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_165
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 233
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a154197d0d131d845a24328db210d6d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_166
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 232
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4676037d30d9d146bcd399dfd53f9a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_167
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 233
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c649c474411fa849ada690bd0c2e1d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_168
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 232
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f60166b672740345b9e9720305a03ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_169
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 231
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4076cf4a3cb98414f97b3cef10dcc4c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_170
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 234
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8dca69b63002304d82aeb090cece0fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_171
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 233
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d00138fe11bc04bae8012f2839ea98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_172
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 232
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c03238680a36fa4db1e5335174804d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_173
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 233
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c95424c1efeaf54a8bc06aaaf46a860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_174
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 232
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e37e8b5176cc144ea638aa106ad7805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_175
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 231
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98362990edf654e4bbfc9409358a5e81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_176
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 234
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068ef39c170c9b74b9eba6f515eb67c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_177
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 197
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f8e7aa63017284ba84e4450ea08341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_178
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 196
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03fb77a4c1c351641a1bf8d7b16599e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_179
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 198
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b1b612ce2c9604f9931ea0a1143302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_180
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 196
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a286648ba058e47870962aee70dc68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_181
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 195
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3f9bb95dc6db1479cc6b8483bec010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_182
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 198
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59bfc1191485dc240a60d4137f7f9745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_183
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 196
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b31a9983fd90fd4aa548ac3d101f2af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_184
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 195
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a0daff7ce5f6d4398799a6bcc96b24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_185
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 198
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b4b6b83734c9747bac32801bff382d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_186
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 196
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7a3e5bb5289814d9c52f260b332598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_187
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 195
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f044cc4bd655b0640862519fc7b9282e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_188
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 198
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97c904f58518704287474529d36fcc6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_189
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 196
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532ca8313b8efc046b6caa17b8281f0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_190
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 195
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c1caadf67ba5243aff0325bbc7aa75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_191
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 198
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76f0462b58edba4aaafef5ef4d7bcde
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_192
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 197
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83b35b2a88c30e4d946a6694e1a5d59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_193
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 196
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921859fe856e28d44a70215a6fdf58a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_194
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 198
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fa6a548bc28c2439ab749ddace31a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_195
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 197
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564aca5ffece861438b84ff196be3448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_196
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 196
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a301bc063743747b35a23efef7c862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_197
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 198
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d6ffff9efa0fd47b4a2779aee728e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_198
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 197
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797555f1ec9f9ce4fbe09f71408200c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_199
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 196
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27a1470d7de89d488309cc61ac5b02c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_200
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 198
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c760707fa5ea94b9d2adc38181f5ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_201
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 197
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26bd9728f8a06e4890683761e524ffe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_202
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 196
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349fee7554cc9d74da8dd959ddd22e4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_203
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 197
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7793580542bd5c42beca119844dcfd9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_204
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 160
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2459a5d3c883c394897a2fd546c135c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_205
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 159
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43a9a4d677dd4745aafe65979fc2792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_206
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 162
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715fae7921d70da4688553f8a46a4766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_207
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 161
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09d47e4036fec34c9176b77ae3aa63d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_208
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 160
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28796df2be8e5234da82d8bd45461dba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_209
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 161
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e986a0b5b883e4b971c23c2d283bac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_210
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 160
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6239b6b842248f4f8f9362686568ee1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_211
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 159
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b951a708033898d4d8c12515d5c6deb2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_212
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 162
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4b605cc8ee2964789ef11c099ff4cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_213
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 161
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f068169144c13094296b6fd8800f52ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_214
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 160
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8888a5847ad744fb7d26ecfcbeb891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_215
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 161
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef95eae01321804dbb127d62340c055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_216
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 160
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afcf486c4081394cb4df1573a40d073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_217
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 159
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8af26576cbf4f49811e00fa790429f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_218
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 162
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045b8e12c8917764cab6c82c57252da0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_219
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 161
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8171035e8f61444b3338b3a03e12b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_220
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 160
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18ad2dac7056ba408205360640549f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_221
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 161
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6c050d997018a438cb35dd9f620a67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_222
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 160
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5cad6ab554b4204d800b745a2e3a29c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_223
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 159
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da58c9fba157ae740b294d725974589d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_224
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 162
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3468d2d7029104d87b153df0d4491c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_225
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 161
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f012aa9764db80f4d8ba902c969fccd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_226
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 160
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fec541b00f0e7459c18a32c9661031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_227
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 124
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db08dcdae17590b45971dc98b6e63a96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_228
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 124
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f0a0720c22fab48882c6984c662c5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_229
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 124
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16e7ad6e0a1a144b84963b6233e218c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_230
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 124
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60641309f36f81e48bb777c4f6737a78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_231
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 124
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959472f3ea792da44a6095455da5c14d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_232
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 124
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80de6da7d0f95941965ba4d4d26b548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_233
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 124
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50cd0e3f1f9ee284a874d0ed1d7601df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_234
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 124
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dec5a1da2c54254592601242cbe95d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_235
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 124
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02958cca47c2a7b4cb69269c268e05ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_236
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 124
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61accb12397cf064cace34b13dba1a25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_237
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 124
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46ac2c0afbaf04468762de36e8e9691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_238
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 124
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88473c50a36b6d6418a2a8551f0e6061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_239
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 124
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee261f25a35008d44afd8a5437a4078c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_240
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 124
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e565cff88d56c424fabd7dd3ba19ba74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_241
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 124
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63dd5850a365e64b8d37c4f61ff8042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_242
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 124
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc925439ba31ae544bd8cee65d0bd536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_243
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 124
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e6c2d595546664095223f785167d75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_244
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 124
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3428d5cbd62d2c54dab5c4c21f016641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_245
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 124
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8a0364909f50f4ba9368b4c8f5f3cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_246
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 124
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789c2f318415f4141b3855698ec813b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_247
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 124
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a0f63d7dec4cb4399db7ec6bebf9d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_248
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 124
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29b5b271c0fd5140a45edaebad5a599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_249
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 124
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3443651c00f674c8f595f391de2e16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_250
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 124
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5eb3f2653ec653429fd9dfe2d6b0a2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_251
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 125
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69265cd081ae3749bc1da67b50805df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_252
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 124
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5187433c3b9c4242b4746392fcf6443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_253
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 89
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5fdb0edaadbeab4d9737c95bbd398aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_254
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 90
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c9eec2975ec034cb4e6c07fba2373e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_255
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 89
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92392fd019bc48a4589d6638f807f9b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_256
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 89
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e155d6947b298f74b9f6a74b966a330c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_257
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 90
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449eb0c7be2321147beb9c7b43a8bea2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_258
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 89
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291e6a14032a77941b2fa932dcfb7538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_259
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 89
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a9bf33961dc9949905920786aef192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_260
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 90
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461d6478a5498f64c83877212eb57b52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_261
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 89
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b88c130290f8a478f89a601e5d0437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_262
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 89
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51afb70e1c72afc4086e1297b094f2bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_263
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 90
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5071611f4ed1e4e48b3c264212ac6f9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_264
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 89
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc8b54f123a6eb47a5043e45ce08085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_265
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 89
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f7fedcbbe35b74289ca272f6f24659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_266
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 90
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4cfe9eb73d79a4cbaf0b091c331da7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_267
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 89
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9f5ca2205b480479f1ab09681925b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_268
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 89
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2766396710339154da2afed3c5463147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_269
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 90
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9543e117ada0243ad96c782e7e651c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_270
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 89
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ac57d2646d0a446a403084034ea031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_271
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 89
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2304d4f3ec5f346a61d993ac4fb3fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_272
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 90
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e6f8d6d4681c348b6744b55ff07233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_273
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 89
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b762ebbd899c45b409ce6419329399b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_274
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 89
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a3654780031c149972197ce6e993c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Thief Base_275
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 89
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2d7d221ae56e84ea727e2fb4d9b66a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7fee348c896a3e947afdcba5ea5bb08c
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

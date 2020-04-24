@@ -1,0 +1,1286 @@
+fileFormatVersion: 2
+guid: 7de5c4e93f4b91e4e806ed98d5368c39
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC Computer - MapleStory - Taurospear_0
+    21300002: PC Computer - MapleStory - Taurospear_1
+    21300004: PC Computer - MapleStory - Taurospear_2
+    21300006: PC Computer - MapleStory - Taurospear_3
+    21300008: PC Computer - MapleStory - Taurospear_4
+    21300010: PC Computer - MapleStory - Taurospear_5
+    21300012: PC Computer - MapleStory - Taurospear_6
+    21300014: PC Computer - MapleStory - Taurospear_7
+    21300016: PC Computer - MapleStory - Taurospear_8
+    21300018: PC Computer - MapleStory - Taurospear_9
+    21300020: PC Computer - MapleStory - Taurospear_10
+    21300022: PC Computer - MapleStory - Taurospear_11
+    21300024: PC Computer - MapleStory - Taurospear_12
+    21300026: PC Computer - MapleStory - Taurospear_13
+    21300028: PC Computer - MapleStory - Taurospear_14
+    21300030: PC Computer - MapleStory - Taurospear_15
+    21300032: PC Computer - MapleStory - Taurospear_16
+    21300034: PC Computer - MapleStory - Taurospear_17
+    21300036: PC Computer - MapleStory - Taurospear_18
+    21300038: PC Computer - MapleStory - Taurospear_19
+    21300040: PC Computer - MapleStory - Taurospear_20
+    21300042: PC Computer - MapleStory - Taurospear_21
+    21300044: PC Computer - MapleStory - Taurospear_22
+    21300046: PC Computer - MapleStory - Taurospear_23
+    21300048: PC Computer - MapleStory - Taurospear_24
+    21300050: PC Computer - MapleStory - Taurospear_25
+    21300052: PC Computer - MapleStory - Taurospear_26
+    21300054: PC Computer - MapleStory - Taurospear_27
+    21300056: PC Computer - MapleStory - Taurospear_28
+    21300058: PC Computer - MapleStory - Taurospear_29
+    21300060: PC Computer - MapleStory - Taurospear_30
+    21300062: PC Computer - MapleStory - Taurospear_31
+    21300064: PC Computer - MapleStory - Taurospear_32
+    21300066: PC Computer - MapleStory - Taurospear_33
+    21300068: PC Computer - MapleStory - Taurospear_34
+    21300070: PC Computer - MapleStory - Taurospear_35
+    21300072: PC Computer - MapleStory - Taurospear_36
+    21300074: PC Computer - MapleStory - Taurospear_37
+    21300076: PC Computer - MapleStory - Taurospear_38
+    21300078: PC Computer - MapleStory - Taurospear_39
+    21300080: PC Computer - MapleStory - Taurospear_40
+    21300082: PC Computer - MapleStory - Taurospear_41
+    21300084: PC Computer - MapleStory - Taurospear_42
+    21300086: PC Computer - MapleStory - Taurospear_43
+    21300088: PC Computer - MapleStory - Taurospear_44
+    21300090: PC Computer - MapleStory - Taurospear_45
+    21300092: PC Computer - MapleStory - Taurospear_46
+    21300094: PC Computer - MapleStory - Taurospear_47
+    21300096: PC Computer - MapleStory - Taurospear_48
+    21300098: PC Computer - MapleStory - Taurospear_49
+    21300100: PC Computer - MapleStory - Taurospear_50
+    21300102: PC Computer - MapleStory - Taurospear_51
+    21300104: PC Computer - MapleStory - Taurospear_52
+    21300106: PC Computer - MapleStory - Taurospear_53
+    21300108: PC Computer - MapleStory - Taurospear_54
+    21300110: PC Computer - MapleStory - Taurospear_55
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Taurospear_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 951
+        width: 190
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a93ca2e80260434bba78235516d5c78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Taurospear_1
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 951
+        width: 192
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c55242ab4d02dc41810fefc631bfaae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Taurospear_2
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 951
+        width: 190
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13316ddc55b7eaf44ba6caa6eac2dc67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Taurospear_3
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 951
+        width: 192
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767e9cd88f008374392f83abb8e52325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Taurospear_4
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 951
+        width: 190
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01946499050cfb847abeeb0162f69058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Taurospear_5
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 951
+        width: 192
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c08c66ba68428542bcf3f67ec3b5170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Taurospear_6
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 951
+        width: 190
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9fb0bc3731d39488b64513ce50a1cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Taurospear_7
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 951
+        width: 189
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9fa56f2194fde47815e4b8cee4fe72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Taurospear_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 780
+        width: 192
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33499465e2c4924e962a7c014008683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Taurospear_9
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 779
+        width: 191
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487d7bb339a37ff409741d5b7a3daad0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Taurospear_10
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 779
+        width: 192
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59cdb30af0d70cb47bed10586abb3192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Taurospear_11
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 781
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a6fa53d440fef458e9edaff1e6999c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Taurospear_12
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 779
+        width: 191
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efea494db9adf94a8fac920e1b54d2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Taurospear_13
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 779
+        width: 192
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a9bf492ffe4854abbdd4074d03fbb3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Taurospear_14
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 779
+        width: 192
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d08c209a4a6734d983248f9963c64e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Taurospear_15
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 781
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8357e99e276794486cfb16d0c848bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Taurospear_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 622
+        width: 192
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eced274ab86ce247b648811c935df95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Taurospear_17
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 429
+        width: 138
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad639f5c96c47042a7b965e38b1030f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Taurospear_18
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 429
+        width: 303
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0dbb6712ec5a84198d64dd9bca423a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Taurospear_19
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 639
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c450a7cb04d79ac49a82289d50293c10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Taurospear_20
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 637
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c608c97ad6944545bad1c448608941b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Taurospear_21
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 637
+        width: 66
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93ad5fc9576aa14493338ce1909574a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Taurospear_22
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 656
+        width: 36
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4673e2f94b5d6bc4e8ea3662f9a27bcf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Taurospear_23
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 644
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2daed309bb9cb4daedafe258cc4fef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Taurospear_24
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 429
+        width: 276
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30bbe584871ee2741a837e876120b33f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Taurospear_25
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 637
+        width: 45
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd42121cb756eca4aa7570a8ab987d18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Taurospear_26
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 617
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a826aae79648d394785c979cf3ca9186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Taurospear_27
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 429
+        width: 190
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8fe2667b519ff48a460a509ac1aa57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Taurospear_28
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 429
+        width: 267
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869919ea2f60513468b39252b5803a90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Taurospear_29
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 211
+        width: 192
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f082e97c7d8134488c4f34f9418699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Taurospear_30
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 211
+        width: 193
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e381fd7508523b446b8acb894ecc5152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Taurospear_31
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 211
+        width: 327
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7b62dee25ec9f4384ef70bd70b24d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Taurospear_32
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 211
+        width: 193
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b8375c62526fc47b6789fe9ad2e40e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Taurospear_33
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 211
+        width: 193
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b734ce202ec0324389588e273bad355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Taurospear_34
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 211
+        width: 318
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5908e629870eecb43a9c579c9b30f754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Taurospear_35
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 237
+        width: 114
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6004a8fbb152ada47b2beeaaefbc5044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Taurospear_36
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 211
+        width: 193
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1842aa23d50a5da4d8047d18ceac9ffe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Taurospear_37
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 237
+        width: 112
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3903174d6f445499deb59854e5944c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Taurospear_38
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 211
+        width: 193
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3720b66900dfe61499ef0f4ed54dc027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Taurospear_39
+      rect:
+        serializedVersion: 2
+        x: 2468
+        y: 211
+        width: 332
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e461d40d99e6444890a7e30650d3d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Taurospear_40
+      rect:
+        serializedVersion: 2
+        x: 2819
+        y: 251
+        width: 113
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fc78d544c6eb04289d7ac771adf2cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Taurospear_41
+      rect:
+        serializedVersion: 2
+        x: 2942
+        y: 211
+        width: 193
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be0d13b94ee2934ebca1e74619977ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Taurospear_42
+      rect:
+        serializedVersion: 2
+        x: 3158
+        y: 249
+        width: 110
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ed83460c120ba4196c16242210b48b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Taurospear_43
+      rect:
+        serializedVersion: 2
+        x: 3275
+        y: 211
+        width: 194
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a021a0186b09c624994d443220ce4b46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Taurospear_44
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 220
+        width: 112
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1560c239ab65713449729bff83e49649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Taurospear_45
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 222
+        width: 111
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb1a9397ff22cf49925a91cc62511be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Taurospear_46
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 20
+        width: 190
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe14e5982c355141b5ed61922887038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Taurospear_47
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 20
+        width: 190
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6ee7c147ad16743a719cd479435331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Taurospear_48
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 20
+        width: 189
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee36344d986d8d42b60fccdefc56099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Taurospear_49
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 20
+        width: 193
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f84430a746fb141bfcab42a05f51a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Taurospear_50
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 20
+        width: 193
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bae904a26531534d9ef765e56fda1c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Taurospear_51
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 20
+        width: 205
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb48286be448b14bb5e091455a94934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Taurospear_52
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 20
+        width: 205
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9af42833279bd46897ee5de70c88f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Taurospear_53
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 20
+        width: 205
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22591d66a0bd5e1469ad1b25148c0d52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Taurospear_54
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 20
+        width: 205
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0be08835c457a243b48a78ffa4f9513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Taurospear_55
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 20
+        width: 206
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2330e58a8182bcd418d129209f75e052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4fd207bb4acea934db21540fc1c06167
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
